@@ -36,4 +36,4 @@ Once all items are completed, the left bottom text will show "All clear!". And t
 </p>
 
 ### References
-The file 'public/img', 'src/components/Header.js', and 'public/styles.css' are provided by the Professor Huang and the TAs of Web Programming in NTU.
+The files 'public/img', 'src/components/Header.js', and 'public/styles.css' are provided by the Professor Huang and the TAs of Web Programming in NTU.
