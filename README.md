@@ -7,7 +7,7 @@ When users first enter, the page is shown as below.
   <img src="https://raw.githubusercontent.com/kanapki/todo-list/master/screenshots/screenshot1.png" width="600">
 </p>
 
-Users can insert new ToDo items by typing in the input box and pressing enter. Text on the left bottom corner will show how many incompleted items are left on the list.
+Users can insert new ToDo items by typing in the input box and pressing enter. The text on the left bottom corner will show how many incompleted items are left on the list.
 <p align="center">
   <img src="https://raw.githubusercontent.com/kanapki/todo-list/master/screenshots/screenshot2.png" width="600">
 </p>
